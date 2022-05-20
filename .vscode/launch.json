@@ -6,17 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Main",
-            "request": "launch",
-            "mainClass": "org.sofka.Main",
-            "projectName": "PruebaJUnitMockito2"
-        },
-        {
-            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "mainClass": "org.sofka.Main",
-            "projectName": "demo_junit_mockito",
+            "projectName": "PruebaJUnitMockito2",
             "vmArgs": "-Duser.language=en"
         },
         {
